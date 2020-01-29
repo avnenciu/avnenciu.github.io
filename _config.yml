@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Andrei Nenciu"
 description              : "My personal website."
 url                      : "https://avnenciu.github.io"
-baseurl                  : "/about"
+baseurl                  : 
 repository               : "avnenciu/avnenciu.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "favicon-16x16.png"
