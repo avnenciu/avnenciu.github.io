@@ -1,6 +1,6 @@
 ---
 title: "Blog Archive"
-permalink: /archive/
+permalink: /blog-archive/
 ---
   
 *Soon*
