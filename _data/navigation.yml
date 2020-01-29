@@ -3,8 +3,8 @@ main:
    - title: "About"
      url: https://avnenciu.github.io/about/
    - title: "Blog"
-     url: /https://avnenciu.github.io/blog/
+     url: https://avnenciu.github.io/blog/
    - title: "Talks"
-     url: /collection-archive/
+     url: https://avnenciu.github.io/talks/
   # - title: "Sitemap"
   #   url: /sitemap/
