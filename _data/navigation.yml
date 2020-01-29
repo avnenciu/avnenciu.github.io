@@ -1,10 +1,10 @@
 # main links
 main:
    - title: "About"
-     url: https://avnenciu.github.io/about/
+     url: /about/
    - title: "Blog"
-     url: https://avnenciu.github.io/blog-archive/
+     url: /blog-archive/
    - title: "Talks"
-     url: https://avnenciu.github.io/talks/
+     url: /talks/
   # - title: "Sitemap"
   #   url: /sitemap/
