@@ -2,9 +2,9 @@
 main:
    - title: "About"
      url: https://avnenciu.github.io/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+   - title: "Blog"
+     url: /https://avnenciu.github.io/blog/
+   - title: "Talks"
+     url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
