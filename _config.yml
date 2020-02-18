@@ -13,6 +13,7 @@
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+markdown: kramdown
 
 # Site Settings
 locale                   : "en-US"
@@ -32,7 +33,7 @@ words_per_minute         : 100
 comments:
   provider               : "disqus"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "avnenciu"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -276,13 +277,23 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
   - scope:
       path: ""
+      type: pages
     values:
       layout: single
       author_profile: true
       read_time: false
-      comments: true
+      comments: false
       share: false
+      related: false
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
       related: false

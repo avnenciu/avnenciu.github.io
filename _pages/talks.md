@@ -2,17 +2,20 @@
 title: "Talks"
 permalink: /talks/
 ---
-
-##### Upcoming
-3. **TBD**  
-*Oxford, 18.02.2020*  
-*Undergraduate Talks Event, The Oxford University Invariant Society*
   
-##### Past
-1. **"Reparametrisations in the Context of Hamiltonian Monte Carlo"**  
-*Cambridge, 14.10.2019*  
-*Summer Research Festival, Centre for Mathematical Sciences*
+### Past
+1. **"Reparametrisations in the Context of Hamiltonian Monte Carlo"**   
+*Summer Research Festival, Centre for Mathematical Sciences*  
+*Cambridge, 14 Oct. 2019* 
 
 2. **"High-Dimensional Spaces"**  
-*Oxford, 01.02.2020*  
-*Research Forum, Oxford Romanian Cultural Society*
+*Research Forum, Oxford Romanian Cultural Society*  
+*Oxford, 01 Feb. 2020*  
+
+3. **"MCMC: The Metropolis Algorithm"**    
+*Undergraduate Talks Event, The Oxford University Invariant Society*  
+*Oxford, 18 Feb. 2020*
+**[Slides](../MCMC_Invariants.pdf)**
+
+### Upcoming
+*None*
