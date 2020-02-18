@@ -14,5 +14,5 @@ in my final year, I mainly took courses in the fields of Analysis, Statistics an
 During the summer of 2019, I worked on a summer research project under the supervision of [Sam Power][sam_power_link].
 
 
-[fs_link]: https://github.com/avnenciu/avnenciu.github.io.git
+[fs_link]: https://featurespace.com
 [sam_power_link]: https://www.dpmms.cam.ac.uk/~sp825/
