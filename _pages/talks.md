@@ -14,7 +14,7 @@ permalink: /talks/
 
 3. **"MCMC: The Metropolis Algorithm"**    
 *Undergraduate Talks Event, The Oxford University Invariant Society*  
-*Oxford, 18 Feb. 2020*
+*Oxford, 18 Feb. 2020*  
 **[Slides](../MCMC_Invariants.pdf)**
 
 ### Upcoming
